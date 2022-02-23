@@ -32,3 +32,6 @@ All the datasets were obtained from [Kaggle](https://www.kaggle.com/)
 
 [Telecom customer churn dataset](https://www.kaggle.com/blastchar/telco-customer-churn)
 
+
+[telecaller operations dataset](https://www.kaggle.com/kieshan/telecaller-operations-dataset)
+
